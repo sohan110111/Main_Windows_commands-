@@ -1,0 +1,113 @@
+Internet Explorer - iexplore
+Paint - mspaint
+Wordpad - write
+ODBC Data Source Administrator - odbcad32
+Administrative Tools - control admintools
+Backup and Restore - sdclt
+Notepad - notepad
+Windows Firewall - firewall.cpl
+System Restore - rstrui
+Log off - logoff
+Time and Date  - timedate.cpl
+Disk defragmentation - dfrgui
+Authorization Manager - azman.msc
+Windows Task Manager - taskmgr
+Driver Verifier Manager - verifier
+Device Manager - devmgmt.msc
+Shutdown - shutdown /s
+Downloads - Downloads
+Sticky Notes - StikyNot
+Securing the Windows Account Database - syskey
+Sound - mmsys.cpl
+Recording* - soundrecorder
+Game Controllers - joy.cpl
+Initialize TPM Security Hardware - TpmInit
+Display Color Calibration - dccw
+Calculator - calc
+Command Prompt - cmd
+Windows Features  - OptionalFeatures
+Microsoft Management Console (MMC) - mmc
+System Configuration - msconfig
+Local Security Policy - secpol.msc
+Local Users and Groups - lusrmgr.msc
+Windows Picture Acquisition Wizard - wiaacmgr
+Create a Shared Folder Wizard - shrpubw
+Add Hardware Drivers Wizard - hdwwiz
+Add Hardware Wizard - hdwwiz
+Volume Mixer - sndvol
+Resource Monitor - resmon
+User Account Control Settings - UserAccountControlSettings
+Snipping Tool - snippingtool
+Shared Folders - fsmgmt.msc
+Disk Cleanup - cleanmgr
+Control Panel - control
+User’s folder - .
+Fonts - fonts
+File Explorer Options - control folders
+Restart - shutdown /r
+Printer Migration - PrintBrmUi
+Pen and Touch - TabletPC.cpl
+Personalization - control desktop
+Task Scheduler - control schedtasks
+Remote Desktop Connection - mstsc
+Users (open this folder) - ..
+Check Disk - chkdsk
+System File Checker  - sfc /scannow
+File Signature Verification - sigverif
+Windows Explorer - explorer
+Programs & Features - appwiz.cpl
+Event Viewer - eventvwr.msc
+Display Resolution - desk.cpl
+Private Character Editor - eudcedit
+Local Group Policy Editor - gpedit.msc
+Registry Editor - regedit
+Fax Cover Page Editor - fxscover
+Resultant Set of Policy - rsop.msc
+System Information - msinfo32
+System Properties - sysdm.cpl
+System Properties: Advanced - SystemPropertiesAdvanced
+System Properties: System Protection - SystemPropertiesProtection
+System Properties: Hardware - SystemPropertiesHardware
+System Properties: Remote - SystemPropertiesRemote
+iSCSI Initiator Properties - iscsicpl
+Internet Properties - inetcpl.cpl
+Keyboard Properties - control keyboard
+Mouse Properties - control mouse
+Certificates - certmgr.msc
+Network Connections - ncpa.cpl
+System Drive (root) - \
+Performance Monitor - perfmon
+Indexing Service - ciadv.msc
+Services - services.msc
+Component Services - dcomcnfg
+Program Compatibility Troubleshooter - msdt.exe -id PCWDiagnostic
+Create a system repair disc - recdisc
+Stored User Names and Passwords - credwiz
+DirectX Diagnostic Tool - dxdiag
+Microsoft Support Diagnostic Tool - msdt
+ClearType Text Tuner - cttune
+XPS Viewer - xpsrchvw
+Problems Steps Recorder - psr
+Character Map - charmap
+Phone and Modem - telephon.cpl
+Windows Remote Assistance - msra
+Disk Management - diskmgmt.msc
+Computer Management - compmgmt.msc
+Print Management - printmanagement.msc
+Color Management - colorcpl
+Install or uninstall display languages - lpksetup
+Devices and Printers - control printers
+User Accounts - Netplwiz
+Color and Appearance - control color
+Windows Mobility Center - mblctr
+Security and Maintenance - wscui.cpl
+Sync Center - mobsync
+Ease of Access - utilman
+Encrypting File System (EFS) - rekeywiz
+Display Settings (element size) - dpiscaling
+On-Screen Keyboard - osk
+Magnifier - magnify
+Narrator - narrator
+Power Options - powercfg.cpl
+WMI Control - wmimgmt.msc
+Region - intl.cpl
